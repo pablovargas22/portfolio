@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tos</title>
+    <title>Proyecto</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -13,8 +13,7 @@
     <link rel="stylesheet" href="css/estilo.css">
 </head>
 
-<body id="to">
-    
+<body id="proyectos">
     <header>
         <nav class="navbar navbar-expand-md mb-4">
             <div class="container-fluid">
@@ -25,16 +24,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" href="sobre-mi.html">Sobre Mi</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" href="sobre-mi.php">Sobre Mi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4 active" href="tos.html">yec</a>
+                            <a class="nav-link py-1 px-3 px-sm-4 active" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3 px-sm-4" href="contacto.html">Contacto</a>
+                            <a class="nav-link py-1 px-3 px-sm-4" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -48,7 +47,7 @@
     <main class="container">
         <div class="row">
             <div class="col-12 pt-3 pb-5">
-                <h1>tos</h1>
+                <h1>proyectos</h1>
             </div>
         </div>
         <div class="row">
@@ -89,8 +88,8 @@
                 </div>
                     <div class="col-12 col-sm-4 p-3">
                         <div class="to">
-                            <img src="images/to-integrador.png" alt="yecintegrador" class="img-fluid">
-                            <h2 class="p-3 d-block">to integrador</h2>
+                            <img src="images/proyecto-integrador.png" alt="proyectointegrador" class="img-fluid">
+                            <h2 class="p-3 d-block">Proyecto integrador</h2>
                             <p class="p-3 pb-5 d-block">to full-stack desarrollado en PHP,Laravel,Javascript,JQuery,AJAX,HTML,CSS,
                             mercadopago con panel administrador,gestor de usuarios,modulo de permisos y funcionalidades a fines.</p>
                              <div class="row my-5">
@@ -103,9 +102,8 @@
                             </div>
                         </div>
                     </div>
-              </div>
+                </div>
     </main>
-   
     <footer class="container mt-5">
         <div class="row">
              <div class="col-12 col-sm-3">
@@ -113,8 +111,8 @@
                 <i class="fa-brands fa-linkedin-in"></i>
             </div>
              <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com">DePc Suite</a></div>
-             <div class="col-12 col-sm-3"><a href="mailto:elmillo_22_90@hotmail.com">elmillo_22_90@hotmail.com"</a></div>
-
+             <div class="col-12 col-sm-3"><a href="mailto:elmillo_22_90@hotmail.com">elmillo_22_90@hotmail.com"</a>
+            </div>
         </div>
     </footer>
     <div class="whatsapp pt-3 pb-4 px-3">
